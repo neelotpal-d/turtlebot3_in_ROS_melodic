@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 cd ~
-mkdir -p wanderbot/src
-cd wanderbot/src
+mkdir -p wanderbot_ws/src
+cd wanderbot_ws/src
 catkin_init_workspace
 cd ..
 catkin_make
