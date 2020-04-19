@@ -12,12 +12,12 @@ Tutorial to use turtlebot3 in ROS melodic
 (Needs Gazebo and other dependencies to be installed already)
 
 ### With the included bash script:
-	1. Go to the direcotry where you ran the command 1 of setup
-	2. Run the command source `turtlebot3_in_ROS_melodic/turtle_gazebo.bash`
-	3. Wait for gazebo to start with turtlebot in it
+  1. Go to the direcotry where you ran the command 1 of setup
+  2. Run the command source `turtlebot3_in_ROS_melodic/turtle_gazebo.bash`
+  3. Wait for gazebo to start with turtlebot in it
 
 ### Without the script
-	1.  Run the command `export TURTLEBOT3_MODEL=burger`
-	2.  Then launch gazebo with turtlebot3 by `roslaunch turtlebot3_gazebo turtlebot3_world.launch`
-	3.  Note that you must source the bash file in the workspace before starting.
+   1. Run the command `export TURTLEBOT3_MODEL=burger`
+   2. Then launch gazebo with turtlebot3 by `roslaunch turtlebot3_gazebo turtlebot3_world.launch`
+   3. Note that you must source the bash file in the workspace before starting.
  
