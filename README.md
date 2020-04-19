@@ -12,7 +12,7 @@ Tutorial to use turtlebot3 in ROS melodic
 (Needs Gazebo and other dependencies to be installed already)
 
 ### With the included bash script:
-  1. Go to the direcotry where you ran the command 1 of setup
+  1. Go to the direcotry where you ran the [command 1 of setup](https://github.com/neelotpal-d/turtlebot3_in_ROS_melodic/edit/master/README.md#Setup)
   2. Run the command source `turtlebot3_in_ROS_melodic/turtle_gazebo.bash`
   3. Wait for gazebo to start with turtlebot in it
 
